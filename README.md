@@ -22,3 +22,5 @@
 **cmake-build-debug/realtime_dataset4_array.log**,  **cmake-build-debug/realtime_dataset4_map.log** и 
 
 **cmake-build-debug/realtime_dataset4_tree.log**
+
+В силу большого объема данных, работа с dataset1.log и dataset2.log вызывала переполнение памяти, а также замедляля общее время работы программы вплоть до получаса (с использованием класса AVLTree)
