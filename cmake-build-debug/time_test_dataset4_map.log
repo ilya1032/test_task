@@ -1,11 +1,22 @@
-96
-3891150
-697
-j = 2 : 225
-j = 4 : 335
-j = 8 : 540
-j = 16 : 967
-j = 32 : 1855
-j = 64 : 3793
-j = 128 : 8189
-j = 256 : 16519
+Nanoseconds for get_first() function:
+97
+Nanoseconds for get_sum_amount() function:
+3895535
+Nanoseconds for get_(price) function:
+706
+Nanoseconds for topn(j) function where:
+j = 2 : 218
+Nanoseconds for topn(j) function where:
+j = 4 : 327
+Nanoseconds for topn(j) function where:
+j = 8 : 538
+Nanoseconds for topn(j) function where:
+j = 16 : 1016
+Nanoseconds for topn(j) function where:
+j = 32 : 1884
+Nanoseconds for topn(j) function where:
+j = 64 : 3812
+Nanoseconds for topn(j) function where:
+j = 128 : 8160
+Nanoseconds for topn(j) function where:
+j = 256 : 16585
